@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    direction: rtl;
+    font-family: 'vazir', serif;
+}
+@font-face {
+    font-family: "vazir";
+    src: url("../vazir-font-v29.1.0/Vazir-Medium.woff2");
+}
